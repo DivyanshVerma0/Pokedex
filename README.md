@@ -15,8 +15,6 @@
    A PWA (Progressive Web App) Built using Angular 9 with Service Workers.<br>
    Works Offline and can be installed.<br>
    Built using the PokéAPI.
-  
-   <p align="center">Live : <a href="https://pokedex.hybridshivam.com">pokedex.hybridshivam.com</a><br>[For best experience use Chrome or any other Chromium-based browser]</p>
 </p>
 
 <p align="center">Leave a :star: if you liked it, also share :link: with those who may be interested.<p>
@@ -53,10 +51,6 @@
  * Flavor Text according to the selected games.
  * *Works Offline.* :heavy_check_mark:
  * *Can be installed.* :heavy_check_mark:
-
-# Getting Started:
-
-**Repo with all the assets : [PokeDex Assets](https://github.com/HybridShivam/pokemon/)**
 
 **Setting up the environment:**
 1. Install Node.js and use `node -v` to check version.
