@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://pokedex.hybridshivam.com"><img src="https://raw.githubusercontent.com/HybridShivam/pokedex-angular-app/master/pokedex.png" width="250px"></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/HybridShivam/pokedex-angular-app/master/pokedex.png" width="250px"></a>
   
   ![Offline](https://img.shields.io/badge/Offline_Compatible-Yes-yellow)
   ![Installable](https://img.shields.io/badge/Installable-Yes-brightgreen)
