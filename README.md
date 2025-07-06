@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/HybridShivam/pokedex-angular-app/master/pokedex.png" width="250px"></a>
+  <img src="pokedex.png" width="250px"></a>
   
   ![Offline](https://img.shields.io/badge/Offline_Compatible-Yes-yellow)
   ![Installable](https://img.shields.io/badge/Installable-Yes-brightgreen)
@@ -57,23 +57,7 @@
 1. Install Angular CLI as `npm install -g @angular/cli`
 1. Clone or download this repo.
 1. Run `npm install --legacy-peer-deps` inside this project folder to install all dependencies.
-1. Make sure you use the latest version of the CLI (upgrade guide below)
-1. I have set the `serviceWorker` flag to `false` in `angular.json` : So Now there are two ways to start the server: 
-  * If `false`
-    * Without Service Worker
-      1. Run `ng serve` to see the app in action (try `npm start` in case `ng serve` fails).
-      1. Connect to app on `localhost:4200`
-      (I use `ng serve -o --host 0.0.0.0` so that I can connect to the server via my Mobile device while on the same network and navigating to `<ip-address-of-server>:4200`)
-    * With Service Worker
-      1. Due to `angular-pwa` restrictions, this can only be viewed on production builds so use `ng build --prod --serviceWorker true` , this creates a build in `\dist` directory.
-      1. To serve this you'll need http server : `npm install -g http-server`
-      1. Run the server using `http-server -c-1 dist\pokedex`
-
-  * If `true`
-    * With Service Worker
-      1. As service worker is enabled here, it can only be viewed on production builds so use `ng build --prod` , this creates a build in `\dist` directory.
-      1. To serve this you'll need http server : `npm install -g http-server`
-      1. Run the server using `http-server -c-1 dist/pokedex`
+1. Make sure you use the latest version of the CLI 
 
 **Upgrading Angular CLI version**
 * Run the below commands - use "sudo" only on Mac/ Linux.
