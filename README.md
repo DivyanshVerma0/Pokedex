@@ -1,7 +1,6 @@
 <div align="center">
   <a href="https://pokedex.hybridshivam.com"><img src="https://raw.githubusercontent.com/HybridShivam/pokedex-angular-app/master/pokedex.png" width="250px"></a>
   
-  ![Build](https://github.com/HybridShivam/pokedex-angular-app/actions/workflows/firebase-hosting-merge.yml/badge.svg)
   ![Offline](https://img.shields.io/badge/Offline_Compatible-Yes-yellow)
   ![Installable](https://img.shields.io/badge/Installable-Yes-brightgreen)
   ![GitHub release](https://img.shields.io/github/package-json/v/HybridShivam/pokedex-angular-app)
